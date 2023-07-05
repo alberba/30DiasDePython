@@ -1,0 +1,600 @@
+[
+    {
+        "Index": "1",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/160px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+        "Name": "George Washington",
+        "Birth Date": "1732-1799",
+        "Term": "April 30, 1789",
+        "Party": {
+            "color": "background-color:#DCDCDC",
+            "name": "Unaffiliated"
+        },
+        "Election": "1788-1789 / 1792",
+        "Vice President": "John Adams"
+    },
+    {
+        "Index": "2",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/07/John_Adams_A18236.jpg/160px-John_Adams_A18236.jpg",
+        "Name": "John Adams",
+        "Birth Date": "1735-1826",
+        "Term": "March 4, 1797",
+        "Party": {
+            "color": "background-color:#EA9978",
+            "name": "Federalist"
+        },
+        "Election": "1796",
+        "Vice President": "Thomas Jefferson"
+    },
+    {
+        "Index": "3",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg/160px-Thomas_Jefferson_by_Rembrandt_Peale%2C_1800.jpg",
+        "Name": "Thomas Jefferson",
+        "Birth Date": "1743-1826",
+        "Term": "March 4, 1801",
+        "Party": {
+            "color": "background-color:#008000",
+            "name": "Democratic-Republican"
+        },
+        "Election": "1800 / 1804",
+        "Vice President": "Aaron Burr"
+    },
+    {
+        "Index": "4",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/James_Madison.jpg/160px-James_Madison.jpg",
+        "Name": "James Madison",
+        "Birth Date": "1751-1836",
+        "Term": "March 4, 1809",
+        "Party": {
+            "color": "background-color:#008000",
+            "name": "Democratic-Republican"
+        },
+        "Election": "1808 / 1812",
+        "Vice President": "George Clinton"
+    },
+    {
+        "Index": "5",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/James_Monroe_White_House_portrait_1819.jpg/160px-James_Monroe_White_House_portrait_1819.jpg",
+        "Name": "James Monroe",
+        "Birth Date": "1758-1831",
+        "Term": "March 4, 1817",
+        "Party": {
+            "color": "background-color:#008000",
+            "name": "Democratic-Republican"
+        },
+        "Election": "1816 / 1820",
+        "Vice President": "Daniel D. Tompkins"
+    },
+    {
+        "Index": "6",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Quincy_Adams_by_Charles_Osgood.jpg/160px-John_Quincy_Adams_by_Charles_Osgood.jpg",
+        "Name": "John Quincy Adams",
+        "Birth Date": "1767-1848",
+        "Term": "March 4, 1825",
+        "Party": {
+            "color": "background: linear-gradient(#008000 50%, #FFE6B0 50%);",
+            "name": "Democratic-Republican"
+        },
+        "Election": "1824",
+        "Vice President": "John C. Calhoun"
+    },
+    {
+        "Index": "7",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Andrew_jackson_head.jpg/160px-Andrew_jackson_head.jpg",
+        "Name": "Andrew Jackson",
+        "Birth Date": "1767-1845",
+        "Term": "March 4, 1829",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1828 / 1832",
+        "Vice President": "John C. Calhoun"
+    },
+    {
+        "Index": "8",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Martin_Van_Buren_circa_1837_crop.jpg/160px-Martin_Van_Buren_circa_1837_crop.jpg",
+        "Name": "Martin Van Buren",
+        "Birth Date": "1782-1862",
+        "Term": "March 4, 1837",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1836",
+        "Vice President": "Richard Mentor Johnson"
+    },
+    {
+        "Index": "9",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_Henry_Harrison_by_James_Reid_Lambdin%2C_1835_crop.jpg/160px-William_Henry_Harrison_by_James_Reid_Lambdin%2C_1835_crop.jpg",
+        "Name": "William Henry Harrison",
+        "Birth Date": "1773-1841",
+        "Term": "March 4, 1841",
+        "Party": {
+            "color": "background-color:#F0C862",
+            "name": "Whig"
+        },
+        "Election": "1840",
+        "Vice President": "John Tyler"
+    },
+    {
+        "Index": "10",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1d/John_Tyler%2C_Jr.jpg/160px-John_Tyler%2C_Jr.jpg",
+        "Name": "John Tyler",
+        "Birth Date": "1790-1862",
+        "Term": "April 4, 1841[i]-March 4, 1845",
+        "Party": {
+            "color": "background: linear-gradient(#F0C862 50%, #DCDCDC 50%);",
+            "name": "Unaffiliated"
+        },
+        "Election": "-",
+        "Vice President": "Vacant throughoutpresidency"
+    },
+    {
+        "Index": "11",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/JKP.jpg/160px-JKP.jpg",
+        "Name": "James K. Polk",
+        "Birth Date": "1795-1849",
+        "Term": "March 4, 1845",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1844",
+        "Vice President": "George M. Dallas"
+    },
+    {
+        "Index": "12",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Zachary_Taylor_restored_and_cropped.jpg/160px-Zachary_Taylor_restored_and_cropped.jpg",
+        "Name": "Zachary Taylor",
+        "Birth Date": "1784-1850",
+        "Term": "March 4, 1849",
+        "Party": {
+            "color": "background-color:#F0C862",
+            "name": "Whig"
+        },
+        "Election": "1848",
+        "Vice President": "Millard Fillmore"
+    },
+    {
+        "Index": "13",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Fillmore.jpg/160px-Fillmore.jpg",
+        "Name": "Millard Fillmore",
+        "Birth Date": "1800-1874",
+        "Term": "July 9, 1850",
+        "Party": {
+            "color": "background-color:#F0C862",
+            "name": "Whig"
+        },
+        "Election": "-",
+        "Vice President": "Vacant throughoutpresidency"
+    },
+    {
+        "Index": "14",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29.jpg/160px-Mathew_Brady_-_Franklin_Pierce_-_alternate_crop_%28cropped%29.jpg",
+        "Name": "Franklin Pierce",
+        "Birth Date": "1804-1869",
+        "Term": "March 4, 1853",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1852",
+        "Vice President": "William R. King"
+    },
+    {
+        "Index": "15",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/James_Buchanan.jpg/160px-James_Buchanan.jpg",
+        "Name": "James Buchanan",
+        "Birth Date": "1791-1868",
+        "Term": "March 4, 1857",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1856",
+        "Vice President": "John C. Breckinridge"
+    },
+    {
+        "Index": "16",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/160px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+        "Name": "Abraham Lincoln",
+        "Birth Date": "1809-1865",
+        "Term": "March 4, 1861",
+        "Party": {
+            "color": "background: linear-gradient(#E81B23 50%, #B22222 50%);",
+            "name": "Republican"
+        },
+        "Election": "1860 / 1864",
+        "Vice President": "Hannibal Hamlin"
+    },
+    {
+        "Index": "17",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg/160px-Andrew_Johnson_photo_portrait_head_and_shoulders%2C_c1870-1880-Edit1.jpg",
+        "Name": "Andrew Johnson",
+        "Birth Date": "1808-1875",
+        "Term": "April 15, 1865",
+        "Party": {
+            "color": "background: linear-gradient(#B22222 50%, #3333FF 50%);",
+            "name": "National Union"
+        },
+        "Election": "-",
+        "Vice President": "Vacant throughoutpresidency"
+    },
+    {
+        "Index": "18",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ulysses_S_Grant_by_Brady_c1870-restored.jpg/160px-Ulysses_S_Grant_by_Brady_c1870-restored.jpg",
+        "Name": "Ulysses S. Grant",
+        "Birth Date": "1822-1885",
+        "Term": "March 4, 1869",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1868 / 1872",
+        "Vice President": "Schuyler Colfax"
+    },
+    {
+        "Index": "19",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/50/President_Rutherford_Hayes_1870_-_1880_Restored.jpg/160px-President_Rutherford_Hayes_1870_-_1880_Restored.jpg",
+        "Name": "Rutherford B. Hayes",
+        "Birth Date": "1822-1893",
+        "Term": "March 4, 1877",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1876",
+        "Vice President": "William A. Wheeler"
+    },
+    {
+        "Index": "20",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/160px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+        "Name": "James A. Garfield",
+        "Birth Date": "1831-1881",
+        "Term": "March 4, 1881",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1880",
+        "Vice President": "Chester A. Arthur"
+    },
+    {
+        "Index": "21",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/7/79/Chester_Alan_Arthur.jpg/160px-Chester_Alan_Arthur.jpg",
+        "Name": "Chester A. Arthur",
+        "Birth Date": "1829-1886",
+        "Term": "September 19, 1881",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "-",
+        "Vice President": "Vacant throughoutpresidency"
+    },
+    {
+        "Index": "22",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/160px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg",
+        "Name": "Grover Cleveland",
+        "Birth Date": "1837-1908",
+        "Term": "March 4, 1885",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1884",
+        "Vice President": "Thomas A. Hendricks"
+    },
+    {
+        "Index": "23",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg/160px-Benjamin_Harrison%2C_head_and_shoulders_bw_photo%2C_1896.jpg",
+        "Name": "Benjamin Harrison",
+        "Birth Date": "1833-1901",
+        "Term": "March 4, 1889",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1888",
+        "Vice President": "Levi P. Morton"
+    },
+    {
+        "Index": "24",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg/160px-Grover_Cleveland_-_NARA_-_518139_%28cropped%29.jpg",
+        "Name": "Grover Cleveland",
+        "Birth Date": "1837-1908",
+        "Term": "March 4, 1893",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1892",
+        "Vice President": "Adlai Stevenson\u00a0I"
+    },
+    {
+        "Index": "25",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Mckinley.jpg/160px-Mckinley.jpg",
+        "Name": "William McKinley",
+        "Birth Date": "1843-1901",
+        "Term": "March 4, 1897",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1896 / 1900",
+        "Vice President": "Garret Hobart"
+    },
+    {
+        "Index": "26",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/President_Roosevelt_-_Pach_Bros.jpg/160px-President_Roosevelt_-_Pach_Bros.jpg",
+        "Name": "Theodore Roosevelt",
+        "Birth Date": "1858-1919",
+        "Term": "September 14, 1901",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1904 / 1904",
+        "Vice President": "Charles W. Fairbanks"
+    },
+    {
+        "Index": "27",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/59/William_Howard_Taft_-_Harris_and_Ewing.jpg/160px-William_Howard_Taft_-_Harris_and_Ewing.jpg",
+        "Name": "William Howard Taft",
+        "Birth Date": "1857-1930",
+        "Term": "March 4, 1909",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1908",
+        "Vice President": "James S. Sherman"
+    },
+    {
+        "Index": "28",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg/160px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919.jpg",
+        "Name": "Woodrow Wilson",
+        "Birth Date": "1856-1924",
+        "Term": "March 4, 1913",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1912 / 1916",
+        "Vice President": "Thomas R. Marshall"
+    },
+    {
+        "Index": "29",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg/160px-Warren_G_Harding-Harris_%26_Ewing.jpg",
+        "Name": "Warren G. Harding",
+        "Birth Date": "1865-1923",
+        "Term": "March 4, 1921",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1920",
+        "Vice President": "Calvin Coolidge"
+    },
+    {
+        "Index": "30",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg/160px-Calvin_Coolidge_cph.3g10777_%28cropped%29.jpg",
+        "Name": "Calvin Coolidge",
+        "Birth Date": "1872-1933",
+        "Term": "August 2, 1923",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1924 / 1924",
+        "Vice President": "Charles G. Dawes"
+    },
+    {
+        "Index": "31",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/57/President_Hoover_portrait.jpg/160px-President_Hoover_portrait.jpg",
+        "Name": "Herbert Hoover",
+        "Birth Date": "1874-1964",
+        "Term": "March 4, 1929",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1928",
+        "Vice President": "Charles Curtis"
+    },
+    {
+        "Index": "32",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/42/FDR_1944_Color_Portrait.jpg/160px-FDR_1944_Color_Portrait.jpg",
+        "Name": "Franklin D. Roosevelt",
+        "Birth Date": "1882-1945",
+        "Term": "March 4, 1933",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1932 / 1936",
+        "Vice President": "John Nance Garner"
+    },
+    {
+        "Index": "33",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/160px-TRUMAN_58-766-06_%28cropped%29.jpg",
+        "Name": "Harry S. Truman",
+        "Birth Date": "1884-1972",
+        "Term": "April 12, 1945",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1948 / 1948",
+        "Vice President": "Alben W. Barkley"
+    },
+    {
+        "Index": "34",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/160px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg",
+        "Name": "Dwight D. Eisenhower",
+        "Birth Date": "1890-1969",
+        "Term": "January 20, 1953",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1952 / 1956",
+        "Vice President": "Richard Nixon"
+    },
+    {
+        "Index": "35",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/160px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+        "Name": "John F. Kennedy",
+        "Birth Date": "1917-1963",
+        "Term": "January 20, 1961",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1960",
+        "Vice President": "Lyndon B. Johnson"
+    },
+    {
+        "Index": "36",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/160px-37_Lyndon_Johnson_3x4.jpg",
+        "Name": "Lyndon B. Johnson",
+        "Birth Date": "1908-1973",
+        "Term": "November 22, 1963",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1964 / 1964",
+        "Vice President": "Hubert Humphrey"
+    },
+    {
+        "Index": "37",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/160px-Richard_Nixon_presidential_portrait_%281%29.jpg",
+        "Name": "Richard Nixon",
+        "Birth Date": "1913-1994",
+        "Term": "January 20, 1969",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1968 / 1972",
+        "Vice President": "Spiro Agnew"
+    },
+    {
+        "Index": "38",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg/160px-Gerald_Ford_presidential_portrait_%28cropped_3%29.jpg",
+        "Name": "Gerald Ford",
+        "Birth Date": "1913-2006",
+        "Term": "August 9, 1974",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "-",
+        "Vice President": "Nelson Rockefeller"
+    },
+    {
+        "Index": "39",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/160px-JimmyCarterPortrait2.jpg",
+        "Name": "Jimmy Carter",
+        "Birth Date": "b. 1924",
+        "Term": "January 20, 1977",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1976",
+        "Vice President": "Walter Mondale"
+    },
+    {
+        "Index": "40",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/160px-Official_Portrait_of_President_Reagan_1981.jpg",
+        "Name": "Ronald Reagan",
+        "Birth Date": "1911-2004",
+        "Term": "January 20, 1981",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1980 / 1984",
+        "Vice President": "George H. W. Bush"
+    },
+    {
+        "Index": "41",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/160px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg",
+        "Name": "George H. W. Bush",
+        "Birth Date": "1924-2018",
+        "Term": "January 20, 1989",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "1988",
+        "Vice President": "Dan Quayle"
+    },
+    {
+        "Index": "42",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/160px-Bill_Clinton.jpg",
+        "Name": "Bill Clinton",
+        "Birth Date": "b. 1946",
+        "Term": "January 20, 1993",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "1992 / 1996",
+        "Vice President": "Al Gore"
+    },
+    {
+        "Index": "43",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/George-W-Bush.jpeg/160px-George-W-Bush.jpeg",
+        "Name": "George W. Bush",
+        "Birth Date": "b. 1946",
+        "Term": "January 20, 2001",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "2000 / 2004",
+        "Vice President": "Dick Cheney"
+    },
+    {
+        "Index": "44",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Official_portrait_of_Barack_Obama.jpg/160px-Official_portrait_of_Barack_Obama.jpg",
+        "Name": "Barack Obama",
+        "Birth Date": "b. 1961",
+        "Term": "January 20, 2009",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "2008 / 2012",
+        "Vice President": "Joe Biden"
+    },
+    {
+        "Index": "45",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/160px-Donald_Trump_official_portrait.jpg",
+        "Name": "Donald Trump",
+        "Birth Date": "b. 1946",
+        "Term": "January 20, 2017",
+        "Party": {
+            "color": "background-color:#E81B23",
+            "name": "Republican"
+        },
+        "Election": "2016",
+        "Vice President": "Mike Pence"
+    },
+    {
+        "Index": "46",
+        "Image": "//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Joe_Biden_presidential_portrait.jpg/160px-Joe_Biden_presidential_portrait.jpg",
+        "Name": "Joe Biden",
+        "Birth Date": "b. 1942",
+        "Term": "January 20, 2021",
+        "Party": {
+            "color": "background-color:#3333FF",
+            "name": "Democratic"
+        },
+        "Election": "2020",
+        "Vice President": "Kamala Harris"
+    }
+]
